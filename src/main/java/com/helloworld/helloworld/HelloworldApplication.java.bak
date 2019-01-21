@@ -16,8 +16,11 @@ public class HelloworldApplication {
     @RequestMapping("helloworld")
     public String helloworld(){
         System.out.println(123);
+<<<<<<< HEAD
         return "jenkins132";
-
+=======
+        return "jenkins122";
+>>>>>>> f946d9c8c27c16697a44e60239ed62f760783481
     }
 }
 
