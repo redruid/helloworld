@@ -16,7 +16,7 @@ public class HelloworldApplication {
     @RequestMapping("helloworld")
     public String helloworld(){
         System.out.println(123);
-        return "jenkins1";
+        return "jenkins12";
     }
 }
 
